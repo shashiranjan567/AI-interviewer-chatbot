@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 AI Interview Coach
 
 A smart, interactive platform to help users practice coding interviews with real-time feedback powered by Gemini AI. This project simulates technical interviews, making preparation smoother and more efficient.
@@ -47,3 +48,6 @@ Setup .env file
 
     npm run dev
 
+=======
+# AI-interviewer-chatbot
+>>>>>>> 5649b5f96236842675d84e1f5433ef739638ee3f
